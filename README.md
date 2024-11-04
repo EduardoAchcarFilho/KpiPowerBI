@@ -7,4 +7,6 @@ Algumas das Medidas aplicadas:
 E também os relacionamentos:
 ![image](https://github.com/user-attachments/assets/d2a37b02-60bb-4fc2-a1b0-7842b3c8e13f)
 Na próxima página, criei uma segmentação de clientes usando a segmentação de dados do Power BI para agrupar com base na "frequência de compra" , "valor gasto" e "Ticket Médio"  pelos clientes. Com base nas médias das características desses agrupamentos, é possível interpretar e categorizar os clientes em Clientes VIP e de Clientes com Baixa Frequência/Clientes Inativos.
+![Capturar](https://github.com/user-attachments/assets/24a3d760-b42b-417e-bc2e-8df590baceb1)
+
 
